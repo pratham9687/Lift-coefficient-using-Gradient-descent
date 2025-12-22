@@ -1,4 +1,4 @@
-Here cl_cl0_gradient_descent.py contains the code to analyse CL(AOA) and CL0. 
+Here cl_cl0_gradient_descent.py contains the code to analyze CL(AOA) and CL0. 
 A linear relation is considered between AOA and CL so the code derives CL/AOA and CL0. 
 The lift coefficient model is considered as CL = CL_a * AOA + CL0.  
 Controller_data is the file that contains real flight test data. 
